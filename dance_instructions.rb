@@ -6,5 +6,9 @@ def Lower_Body
  puts"Finishing with a small skip-step backward"
  end 
  
- def 
-  
+ def Skip_Step
+   puts "lift right foot"
+   puts "Bounce left foot back up slightly, kicking it a few inches back"
+   puts "Left, Right, Left, and Left"
+   puts "Lower right foot to the ground"
+   puts 
