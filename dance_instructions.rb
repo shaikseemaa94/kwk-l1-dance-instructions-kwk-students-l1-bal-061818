@@ -27,5 +27,12 @@ def proper_stance
     puts "Raise right arm forearm so that it points staight up and whip it in a small circles to the beat of the song, as if you were a cowboy holding a rope lasso."
   end
   
+  def bust_a_move
+    puts "be cool!"
+    puts "be snazzy!"
+  end 
+  
   proper_stance
+  bust_a_move
+  
   
