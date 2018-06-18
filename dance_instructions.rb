@@ -1,6 +1,9 @@
 def proper_stance
 # Code your methods below
  puts "Plant legs far apart, bend knees slighty and keep posture loose"
+ end
+ 
+ def footwork
  puts "Lift right foot"
  puts "Return right foot to the ground"
  puts"Finishing with a small skip-step backward"
