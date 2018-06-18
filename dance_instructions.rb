@@ -13,4 +13,9 @@ def Lower_Body
    puts "Lower right foot to the ground"
    puts "Bounce right foot back up slightly, kicking it a few inches back"
    puts "Right, left, right and right"
-   
+  end 
+  
+  def Upper_Body
+    puts"Holding your arms in front of you, staight and at chest level"
+    puts "Cross your right wrist over your left and hold them together"
+    puts "Lift your arm up and down in a loose bouncing movement, in time with the beat of the song.This movement is repeated eight times"
