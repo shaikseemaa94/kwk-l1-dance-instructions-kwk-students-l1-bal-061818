@@ -38,6 +38,6 @@ def proper_stance
   proper_stance
   bust_a_move
   footwork
-  
+  bust_a_move
       
   
