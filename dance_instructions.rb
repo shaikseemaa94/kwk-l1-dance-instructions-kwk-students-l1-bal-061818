@@ -38,8 +38,8 @@ def proper_stance
   proper_stance
   bust_a_move
   footwork
-  bob_the_reins 
-  lasso
+  bob_the_reins + skip_step
+  lasso + skip_step
   bust_a_move
       
   
