@@ -11,4 +11,6 @@ def Lower_Body
    puts "Bounce left foot back up slightly, kicking it a few inches back"
    puts "Left, Right, Left, and Left"
    puts "Lower right foot to the ground"
-   puts 
+   puts "Bounce right foot back up slightly, kicking it a few inches back"
+   puts "Right, left, right and right"
+   
